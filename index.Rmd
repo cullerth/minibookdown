@@ -6,6 +6,4 @@ documentclass: book
 classoption: openany
 ---
 
-# Create your open textbook
-
-Hello, world!!!
+Book hosted at https://cullerth.github.io/minibookdown/

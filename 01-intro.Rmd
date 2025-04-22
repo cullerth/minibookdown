@@ -3,4 +3,4 @@
 ## About this book:
 
 This is a test textbook created as part of the Library Juice Academy course ["Git & GitHub for Libraries"](https://libraryjuiceacademy.com/shop/course/268-git-and-github-for-libraries/). 
-This book was created as part of a tutorial to demonstrat GitHub as a publishing platform as well as GitHub Actions. 
+This book was created as part of a tutorial to demonstrate GitHub as a publishing platform as well as GitHub Actions. 
