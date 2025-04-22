@@ -1,1 +1,6 @@
 create-your-open-textbook
+introduction
+about-this-book
+githubactions
+github-as-a-publishing-platform
+helpful-readings
