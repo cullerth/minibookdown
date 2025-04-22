@@ -1,0 +1,6 @@
+# GitHub as a Publishing platform
+
+## Helpful Readings
+- ["GitHub for Publishing"](https://openscapes.github.io/series/github-pub.html) by Julie Lowndes
+- More on [GitHub Pages](https://docs.github.com/en/pages/quickstart?library=true)
+- ["Deploying static sites to GitHub Pages using GitHub Actions"](https://medium.com/@danieljimgarcia/publishing-static-sites-to-github-pages-using-github-actions-8040f57dfeaf)
